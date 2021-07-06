@@ -2,8 +2,8 @@
 
 
 
-<div align="center">
-<p align="center">Join Me In Socials!</p>
+<div align="left">
+<p align="left">Join Me In Socials!</p>
 <a href="https://twitter.com/rezvanchem">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
