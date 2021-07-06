@@ -4,9 +4,11 @@
 
 <div align="left">
 <p align="left">Join Me In Socials!</p>
-<a href="https://twitter.com/rezvanchem">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+
+<a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>    
+    
     
 <a href="https://shaghayegh-rahmani.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
@@ -23,7 +25,16 @@
 <a href="https://www.instagram.com/rezvan_net/?igshid=1mjodt155gcgv">
     <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instahram&logoColor=white" />
 </a>
+    
+ <a href="https://twitter.com/rezvanchem">
+   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+    
+ <a href="https://play.google.com/store/apps/dev?id=5021669729174204967">
+   <img src="https://img.shields.io/badge/GooglePlay-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>   
 
+   
 
 </div>
 
