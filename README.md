@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://www.instagram.com/rezvan_net/?igshid=1mjodt155gcgv">
-    <img src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=instahram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instahram&logoColor=white" />
 </a>
 
 
