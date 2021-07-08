@@ -47,7 +47,7 @@
 - 💊 I'm an analytical chemist.
 - 🔭 I’m currently working on image processing.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on open source python projects.
+- 👯 I’m looking to collaborate on python open source projects.
 - 💬 Ask me about Python.
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ...
