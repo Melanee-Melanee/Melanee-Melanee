@@ -45,7 +45,7 @@
 ### I am Shaghayegh Rahmani
 
 - 💊 I'm an analytical chemist.
-- 🔭 I’m currently working on image processing.
+- 🔭 I’m currently working on Data Science.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on python open source projects.
 - 💬 Ask me about Python.
