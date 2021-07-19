@@ -45,10 +45,10 @@
 ### I am Shaghayegh Rahmani
 
 - 💊 I'm an analytical chemist.
-- 🔭 I’m currently working on Data Science.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on data science.
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on python open source projects.
-- 💬 Ask me about Python.
+- 💬 Ask me about python.
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
