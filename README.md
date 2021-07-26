@@ -3,7 +3,7 @@
 
 
 <div align="left">
-<p align="left">Join Me In Socials!</p>
+<p align="left">Join Me In Social media:</p>
 
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
