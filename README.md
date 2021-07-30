@@ -11,7 +11,7 @@
     
     
 <a href="https://shaghayegh-rahmani.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
 <a href="https://www.linkedin.com/in/shaghayegh-rahmani-1283a379/">
@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
+ <br> 
+    
 <a href="https://www.instagram.com/rezvan_net/?igshid=1mjodt155gcgv">
     <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instahram&logoColor=white" />
 </a>
