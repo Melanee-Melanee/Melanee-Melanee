@@ -1,10 +1,10 @@
 
-<img src="https://github.com/rezvan-net/rezvan-net/blob/main/python.png" align="right" alt="rezvan-net" width="200" height="200">
+<img src="https://github.com/rezvan-net/rezvan-net/blob/main/python.png" align="right" alt="rezvan-net" width="250" height="250">
 
 
 
 
-<!-- <div align="left"> -->
+<div align="left">
 
 <br>
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
