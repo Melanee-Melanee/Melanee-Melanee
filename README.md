@@ -2,10 +2,10 @@
 <img src="https://github.com/rezvan-net/rezvan-net/blob/main/connectivity.png" align="right" alt="rezvan-net" width="400" height="280">
 
 
-<br>
+
 <div align="left">
 
-<p align="left">Join Me In Social media:</p>
+<br><p align="left">Join Me In Social media:</p>
 
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
