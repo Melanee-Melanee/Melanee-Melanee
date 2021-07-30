@@ -1,13 +1,12 @@
-<span align="right">
+
 <img src="https://github.com/rezvan-net/rezvan-net/blob/main/python.png" align="right" alt="rezvan-net" width="200" height="200">
 
 
-</span>
+
+
+<!-- <div align="left"> -->
+
 <br>
-
-<div align="left">
-
-
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>    
