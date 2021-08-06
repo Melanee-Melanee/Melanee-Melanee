@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/rezvan-net/rezvan-net/blob/main/python.png" align="right" alt="rezvan-net" width="250" height="250">
+<img src="https://github.com/rezvan-net/rezvan-net/blob/main/data%20analysis.png" align="right" alt="rezvan-net" width="450" height="450">
 
 
 
