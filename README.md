@@ -48,8 +48,7 @@
 
 
 
-### I am Melanee
-
+- 👩‍💻 I'm Melanee.
 - 💊 I'm an analytical chemist.
 - 🔭 I’m working on data science using python.
 - 👯 I’m looking to collaborate on python open source projects.
