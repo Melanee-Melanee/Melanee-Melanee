@@ -48,7 +48,7 @@
 
 
 
-### I am Shaghayegh Rahmani
+### I am Melanee
 
 - 💊 I'm an analytical chemist.
 - 🔭 I’m working on data science using python.
