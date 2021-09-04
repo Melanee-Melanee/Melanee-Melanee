@@ -50,7 +50,7 @@
 
 - 👩‍💻 I'm Melanee.
 - 💊 I'm an analytical chemist.
-- 🔭 I’m working on data science using python.
+- 🔭 I’m working on data science.
 - 👯 I’m looking to collaborate on data science projects.
 - 💬 Ask me about python.
 <!-- - 📫 How to reach me: ... -->
