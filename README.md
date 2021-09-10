@@ -7,6 +7,10 @@
 <div align="left">
 
 <br>
+<a href="https://play.google.com/store/apps/dev?id=5021669729174204967">
+   <img src="https://img.shields.io/badge/GooglePlay-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>   
+    
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>    
@@ -33,10 +37,7 @@
  <a href="https://twitter.com/Melanee_Melanee">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-    
- <a href="https://play.google.com/store/apps/dev?id=5021669729174204967">
-   <img src="https://img.shields.io/badge/GooglePlay-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a>   
+       
 
  <a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
    <img src="https://img.shields.io/badge/GoogleScholar-808080?style=for-the-badge&logo=googlescholar&logoColor=white" />
