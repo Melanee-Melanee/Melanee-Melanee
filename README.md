@@ -13,7 +13,7 @@
     
     
 <a href="http://melanee-melanee.medium.com">
-    <img src="https://img.shields.io/badge/Medium-EOEOEO?style=for-the-badge&logo=medium&logoColor=black" />
+    <img src="https://img.shields.io/badge/Medium-E0E0E0?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
 <a href="https://www.linkedin.com/in/melanee-melanee/">
