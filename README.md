@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Medium-E0E0E0?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
-<a href="https://www.linkedin.com/in/melanee-melanee/">
+<a href="https://www.linkedin.com/in/shaghayegh-rahmani-melanee-/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
