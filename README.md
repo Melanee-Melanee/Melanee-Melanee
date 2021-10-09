@@ -6,11 +6,6 @@
 
 <div align="left">
 
-<br>
-  
-<a href="https://formafzar.com/form/mqx0d">
-   <img src="https://img.shields.io/badge/Exhibitoin-ffff33?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a>   
 
    
 <a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
