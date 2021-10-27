@@ -1,7 +1,5 @@
 Contact Me:
 
-<img src="https://github.com/rezvan-net/rezvan-net/blob/main/data%20analysis.png" align="right" alt="rezvan-net" width="400" height="400">
-
 
 
 <div align="left">
@@ -64,6 +62,12 @@ Contact Me:
 </a>  
 
 </div>
+
+
+
+<img src="https://github.com/rezvan-net/rezvan-net/blob/main/data%20analysis.png" align="right" alt="rezvan-net" width="400" height="400">
+
+
 
 
 <br>
