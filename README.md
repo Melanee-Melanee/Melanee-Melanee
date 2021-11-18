@@ -57,11 +57,6 @@ Contact Me:
  <a href="https://twitter.com/Melanee_Melanee">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-       
-
- <a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
-   <img src="https://img.shields.io/badge/GoogleScholar-808080?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>  
 
 </div>
 
