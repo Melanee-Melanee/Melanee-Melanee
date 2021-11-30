@@ -71,7 +71,7 @@ My links:
 
 
 - 👩‍💻 I'm Melanee.
-- 💊 I'm an analytical chemist.
+- 💊 I'm a chemist.
 - 🔭 I’m working on data science.
 - 👯 I’m looking to collaborate on data science projects.
 - 💬 Ask me about python.
