@@ -74,7 +74,7 @@ My links:
 - 💊 I'm a chemist.
 - 🔭 I’m working on data science.
 - 👯 I’m looking to collaborate on data science projects.
-- 💬 Ask me about python.
+<!--💬 Ask me about python.
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
