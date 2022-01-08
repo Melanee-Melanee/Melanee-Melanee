@@ -85,8 +85,8 @@ My links:
 
 - 👩‍💻 I'm Melanee.
 - 💊 I'm an analytical chemist.
-- 🔭 I’m working on Python programming language.
-- 👯 I’m looking to collaborate on data science projects.
+- 🖥 I’m working on Python programming language.
+- 📊 I’m looking to collaborate on data science projects.
 <!--💬 Ask me about python.
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ...
