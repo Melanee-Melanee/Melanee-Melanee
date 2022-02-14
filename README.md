@@ -19,20 +19,18 @@ My links:
    
    
    
-<a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
-   <img src="https://img.shields.io/badge/GooglePlay-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a>   
-    
-   
-   
-   
    
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>    
     
 
-
+<a href="https://www.linkedin.com/in/shaghayegh-rahmani-melanee-/">
+   <img src="https://img.shields.io/badge/LinkedIN-1DA2F3?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+   
+   
+   
    
    
 <a href="http://melanee-melanee.medium.com">
@@ -65,11 +63,21 @@ My links:
    
    
    
+
+ 
+ <a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
+   <img src="https://img.shields.io/badge/GooglePlay-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a> 
+   
+   
+   
+   
   <a href="https://github.com/Melanee-Melanee/Donate">
     <img src="https://img.shields.io/badge/Donate-FFFF00?style=for-the-badge&logo=donate&logoColor=white" />
 </a> 
    
-      
+   
+  
 
 </div>
 
