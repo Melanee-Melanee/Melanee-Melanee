@@ -90,11 +90,19 @@ My links:
 
 <br>
 
+💎 I am Melanee, a highly motivated person in interdisciplinary fields between computer and science areas. 
 
-- 👩‍💻 I'm Melanee.
-- 💊 I'm an analytical chemist.
-- 🖥 I’m working on Python programming language.
-- 📊 I’m looking to collaborate on data science projects.
+💎 I am skilled in datascience tools like python programming language and its critical packages like Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
+
+💎 Although my academic degree has nothing to do with computer science but I have enough knowledge in operating systems (OS), computer networks, hardware, data structures and computer architecture due to my hardworking self-studies. 
+
+💎 Additionally, I am a senior chemist and have remarkable experience in both practical and statistical experiments in the laboratories.
+
+💎 My personality is so meticulous, conscientious and serious in my job and friendly with my colleagues.
+<!--💻 I'm Melanee.
+<!--💊 I'm an analytical chemist.
+<!--🖥 I’m working on Python programming language.
+<!-- 📊 I’m looking to collaborate on data science projects.
 <!--💬 Ask me about python.
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ...
