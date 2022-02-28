@@ -92,7 +92,7 @@ My links:
 
 💎 I am Melanee, a highly motivated person in interdisciplinary fields between computer and science areas. 
 
-💎 I am skilled in datascience tools like python programming language and its critical packages like Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
+💎 I am skilled in data science tools like python programming language and its critical packages like Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
 
 💎 Although my academic degree has nothing to do with computer science but I have enough knowledge in operating systems (OS), computer networks, hardware, data structures and computer architecture due to my hardworking self-studies. 
 
