@@ -96,7 +96,7 @@ My links:
 
 💎 Although my academic degree has nothing to do with computer science but I have enough knowledge in operating systems (OS), computer networks, hardware, data structures and computer architecture due to my hardworking self-studies. 
 
-💎 Additionally, I am a senior chemist and have remarkable experience in both practical and statistical experiments in the laboratories.
+💎 Additionally, I am a senior chemist and have remarkable experience in both practical and statistical experiments in pharmaceutical/medical laboratories.
 
 💎 My personality is so meticulous, conscientious and serious in my job and friendly with my colleagues.
 <!--💻 I'm Melanee.
