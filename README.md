@@ -8,14 +8,9 @@ My links:
 <br>
    
    
-   
-   
-   
-   
-<a href="https://t.me/melaneepython">
-    <img src="https://img.shields.io/badge/Telegram-1DA2F3?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>   
-   
+  <a href="https://www.linkedin.com/in/shaghayegh-rahmani-melanee-/">
+   <img src="https://img.shields.io/badge/LinkedIN-1DA2F3?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
    
    
    
@@ -25,11 +20,12 @@ My links:
 </a>    
     
 
-<a href="https://www.linkedin.com/in/shaghayegh-rahmani-melanee-/">
-   <img src="https://img.shields.io/badge/LinkedIN-1DA2F3?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
+ 
    
-   
+ <a href="https://t.me/melaneepython">
+    <img src="https://img.shields.io/badge/Telegram-1DA2F3?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>   
+     
    
    
    
