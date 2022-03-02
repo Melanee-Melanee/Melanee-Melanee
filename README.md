@@ -85,8 +85,7 @@ My links:
 
 
 <br>
-
-💎 I am Melanee, a highly motivated person in interdisciplinary fields between computer and science areas. 
+💎 I am Melanee, a highly motivated person in interdisciplinary fields between computer and natural science areas. 
 
 💎 I am skilled in data science tools like python programming language and its critical packages e.g Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
 
@@ -94,7 +93,8 @@ My links:
 
 💎 Additionally, I am a senior chemist and have remarkable experience in both practical and statistical experiments in pharmaceutical/medical laboratories.
 
-💎 My personality is so meticulous, conscientious and serious in my job and friendly with my colleagues.
+💎 My personality is so meticulous, conscientious, serious in my job and friendly with my colleagues. My "MBTI" personality test is "ESTJ" and my "EQ" is 87%.
+
 <!--💻 I'm Melanee.
 <!--💊 I'm an analytical chemist.
 <!--🖥 I’m working on Python programming language.
