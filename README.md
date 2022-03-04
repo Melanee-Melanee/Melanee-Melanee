@@ -13,6 +13,15 @@ My links:
 </a>  
    
    
+   <a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
+   <img src="https://img.shields.io/badge/Google Scholar-808080?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>  
+   
+   
+   
+   
+   
+   
    
    
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
@@ -62,7 +71,7 @@ My links:
 
  
  <a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
-   <img src="https://img.shields.io/badge/GooglePlay-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
+   <img src="https://img.shields.io/badge/Google Play-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a> 
    
    
