@@ -13,6 +13,9 @@ My links:
 </a>  
    
    
+             
+   
+   
    <a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
    <img src="https://img.shields.io/badge/Google Scholar-808080?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>  
@@ -80,6 +83,15 @@ My links:
   <a href="https://github.com/Melanee-Melanee/Donate">
     <img src="https://img.shields.io/badge/Donate-FFFF00?style=for-the-badge&logo=donate&logoColor=white" />
 </a> 
+   
+   
+   
+   <a href="https://www.kaggle.com/melaneemelanee">
+   <img src="https://img.shields.io/badge/Kaggle-1DA2F3?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a> 
+   
+   
+   
    
    
   
