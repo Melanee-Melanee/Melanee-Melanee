@@ -59,7 +59,7 @@ My links:
    
     
 <a href="https://instagram.com/melanee_net?utm_medium=copy_link">
-    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instahram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
    
    
