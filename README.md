@@ -80,10 +80,7 @@ My links:
    
    
    
-  <a href="https://github.com/Melanee-Melanee/Donate">
-    <img src="https://img.shields.io/badge/Donate-FFFF00?style=for-the-badge&logo=donate&logoColor=white" />
-</a> 
-   
+  
    
    
    <a href="https://www.kaggle.com/melaneemelanee">
