@@ -22,7 +22,9 @@ My links:
    
    
    
-   
+   <a href="https://www.researchgate.net/profile/Shaghayegh-Rahmani-2">
+   <img src="https://img.shields.io/badge/REASEARCHGATE-1DA2F3?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>    
    
    
    
