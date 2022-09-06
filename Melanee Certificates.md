@@ -29,4 +29,3 @@
 
 ![my personal tests](https://user-images.githubusercontent.com/74653444/188546755-ed0c2650-3ae4-4eab-9042-18266ecb6ed5.jpg)
 
-![chem life](https://user-images.githubusercontent.com/74653444/188550035-7e9a5600-7a5b-41dc-b450-8caa6cc7c81d.jpg)
