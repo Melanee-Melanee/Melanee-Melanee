@@ -3,6 +3,8 @@
 
 ![udemy numpy](https://user-images.githubusercontent.com/74653444/188547515-3f5c5def-730c-4954-8bad-35ac0dacb75e.jpg)
 
+![git and github udemy](https://user-images.githubusercontent.com/74653444/190888317-682e5fdf-c8e6-4f5a-b44e-599860133c23.jpg)
+
 ![UC-dec15127-22b4-4c36-8d77-59e73fd16e5c](https://user-images.githubusercontent.com/74653444/188548227-ebd94ce4-0d32-43e9-9fb6-1117f73573dc.jpg)
 
 ![mftsk2](https://user-images.githubusercontent.com/74653444/188546190-24c41444-0a0d-4f0a-99fa-b1609987d4ef.jpg)
