@@ -103,7 +103,7 @@ My links:
 
 
 
-💎 I am Melanee, a highly motivated person in interdisciplinary fields between computer and natural science areas. 
+💎 I am Melanee, a highly motivated professional in interdisciplinary fields between computer and natural science areas. 
 
 
 💎 I am skilled in data science tools like python programming language and its critical packages e.g Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
