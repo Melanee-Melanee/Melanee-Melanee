@@ -37,4 +37,12 @@ Link: https://www.researchgate.net/publication/341425481_Optimization_of_Drug_lo
 
 ![BBD ISI](https://user-images.githubusercontent.com/74653444/188557559-aa739d93-c8a7-462e-bb4b-4cdedbc1ec39.png)
 
+-----------------------------------------------------------------------------------
+
+## What are cheminformatics resources?
+
+https://medium.com/mlearning-ai/what-are-cheminformatics-resources-67783cc788f6
+
+![cheminformatics resources](https://user-images.githubusercontent.com/74653444/204318346-7dad1def-98aa-4917-bec6-851954a9be48.jpeg)
+
 
