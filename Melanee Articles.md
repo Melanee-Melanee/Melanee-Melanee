@@ -46,3 +46,18 @@ https://medium.com/mlearning-ai/what-are-cheminformatics-resources-67783cc788f6
 ![cheminformatics resources](https://user-images.githubusercontent.com/74653444/204318346-7dad1def-98aa-4917-bec6-851954a9be48.jpeg)
 
 
+-------------------------------------------------------------------------------------------------
+## Contribute to open-source projects using GitHub
+
+https://melanee-melanee.medium.com/contribute-to-open-source-projects-using-github-5a7304af0434
+
+
+
+![github](https://user-images.githubusercontent.com/74653444/207939485-7f485fa4-4fbf-4165-a2ae-5549c36ad889.png)
+
+
+
+
+
+
+
