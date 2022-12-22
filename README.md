@@ -106,7 +106,6 @@ My links:
 
 💎 I am skilled in data science tools like python programming language and its critical packages e.g Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
 
-💎 Additionally, I am a senior chemist and have remarkable experience in both practical and statistical experiments in pharmaceutical/medical laboratories.
 
 
 
