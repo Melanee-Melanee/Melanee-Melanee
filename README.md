@@ -27,6 +27,12 @@ My links:
 <br>   
    
    
+  <a href="https://www.instagram.com/melanee_net/">
+   <img src="https://img.shields.io/badge/INSTAGRAM-F2D2BD?style=for-the-badge&logo=INSTAGRAM&logoColor=white" />
+</a>  
+   
+   
+   
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>    
