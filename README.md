@@ -26,10 +26,7 @@ My links:
    
 <br>   
    
-   
-  <a href="https://www.instagram.com/melanee_net/">
-   <img src="https://img.shields.io/badge/INSTAGRAM-FF0090?style=for-the-badge&logo=INSTAGRAM&logoColor=white" />
-</a>  
+
    
    
    
