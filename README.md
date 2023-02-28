@@ -6,12 +6,19 @@ My links:
 <div align="left">
    
 <br>
+         
+<a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
+   <img src="https://img.shields.io/badge/Google Play-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a> 
    
    
    
    
+   <a href="https://www.kaggle.com/melaneemelanee">
+   <img src="https://img.shields.io/badge/Kaggle-1DA2F3?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a> 
    
-             
+   
    
    
    <a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
@@ -25,8 +32,6 @@ My links:
 </a>    
    
 <br>   
-   
-
    
    
    
@@ -74,20 +79,7 @@ My links:
    
 
  
- <a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
-   <img src="https://img.shields.io/badge/Google Play-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a> 
-   
-   
-   
-   
-  
-   
-   
-   <a href="https://www.kaggle.com/melaneemelanee">
-   <img src="https://img.shields.io/badge/Kaggle-1DA2F3?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</a> 
-   
+ 
    
    
    
