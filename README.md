@@ -66,11 +66,6 @@ My links:
    
    
     
-
-   
-   
-   
-    
  <a href="https://twitter.com/Melanee_Melanee">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -78,13 +73,13 @@ My links:
    
    
 
+  <a href="https://www.freelancer.com/u/Melanee2023">
+   <img src="https://img.shields.io/badge/Freelancere-1DA1F2?style=for-the-badge&logo=freelancer&logoColor=white" />
+</a>
  
+   
+   
  
-   
-   
-   
-   
-  
 
 </div>
 
