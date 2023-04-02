@@ -89,21 +89,14 @@ My links:
 
 
 
+💎 I have a verified PayPal account.
 
-
-💎 I am Melanee, a highly motivated professional in interdisciplinary fields between computer and natural science areas. 
-
-
-💎 I am skilled in data science tools like python programming language and its critical packages e.g Pandas, Numpy and also an expert in machine learning (ML) algorithms and structured query language (SQL) .
-
+💎 I am skilled in data science tools like python programming language and also an expert in machine learning (ML) algorithms .
 
 
 
 💎 Although my academic degree has nothing to do with computer science but I have enough knowledge in operating systems (OS), computer networks, hardware, data structures and computer architecture due to my hardworking self-studies. 
 
-
-
-💎 My personality is so meticulous, conscientious, serious in my job and friendly with my colleagues. My "MBTI" personality test is "ESTJ", my "EQ" is 87%, my "NEO PIR" test is "Normal" and my "DISC" test is "C".
 <!--💻 I'm Melanee.
 <!--💊 I'm an analytical chemist.
 <!--🖥 I’m working on Python programming language.
