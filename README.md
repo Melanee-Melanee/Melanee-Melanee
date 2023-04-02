@@ -89,7 +89,7 @@ My links:
 
 
 
-💎 I have a verified PayPal account.
+💎 I have a verified PayPal account and anyone can hire me from around the world. 
 
 💎 I am skilled in data science tools like python programming language and also an expert in machine learning (ML) algorithms .
 
