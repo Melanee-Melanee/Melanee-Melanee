@@ -93,9 +93,10 @@ My links:
 
 💎 I have a verified PayPal account and anyone is welcome to hire me from around the world.
 
-💎 I am skilled in data science tools like python programming language and also an expert in machine learning (ML) algorithms .
+💎 I am skilled in data science, Python programming language and machine learning (ML) algorithms.
 
-💎 Although my academic degree has nothing to do with computer science but I have enough knowledge in operating systems (OS), computer networks, hardware, data structures and computer architecture due to my hardworking self-studies. 
+💎My Gmail address: melaneepython@gmail.com
+
 
 <!--💻 I'm Melanee.
 <!--💊 I'm an analytical chemist.
