@@ -95,7 +95,7 @@ My links:
 
 💎 I am skilled in data science, Python programming language and machine learning (ML) algorithms.
 
-💎My Gmail address: melaneepython@gmail.com
+💎 My Gmail address: melaneepython@gmail.com
 
 
 <!--💻 I'm Melanee.
