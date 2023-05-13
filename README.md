@@ -77,12 +77,7 @@ My links:
    <img src="https://img.shields.io/badge/Freelancere-1DA1F2?style=for-the-badge&logo=freelancer&logoColor=white" />
 </a>
  
-   
-  <a href="https://g.dev/Melanee">
-   <img src="https://img.shields.io/badge/Google Developers-FF00FF?style=for-the-badge&logo=google developers&logoColor=white" />
-</a> 
  
-
 </div>
 
 
