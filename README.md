@@ -88,7 +88,7 @@ My links:
 
 💎 I have a verified PayPal account and anyone is welcome to hire me from around the world.
 
-💎 I am skilled in data science, Python programming language and machine learning (ML) algorithms.
+💎 I am skilled in Python programming language,  machine learning (ML) algorithms and data related fields.
 
 💎 My Gmail address: melaneepython@gmail.com
 
