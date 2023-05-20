@@ -5,7 +5,7 @@ My links:
 
 <div align="left">
    
-<br>
+</br>
          
 <a href="https://play.google.com/store/apps/details?id=shaghayegh.check_list">
    <img src="https://img.shields.io/badge/Google Play-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -31,7 +31,7 @@ My links:
    <img src="https://img.shields.io/badge/REASEARCHGATE-1DA2F3?style=for-the-badge&logo=researchgate&logoColor=white" />
 </a>    
    
-<br>   
+</br>   
    
    
    
@@ -61,7 +61,7 @@ My links:
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
- <br> 
+ </br> 
    
    
    
@@ -84,6 +84,12 @@ My links:
 
 <img src="https://github.com/rezvan-net/rezvan-net/blob/main/data%20analysis.png" align="right" alt="rezvan-net" width="400" height="400">
 
+
+
+
+</br>
+</br>
+</br>
 
 
 💎 I have a verified PayPal account and anyone is welcome to hire me from around the world.
