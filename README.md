@@ -92,11 +92,7 @@ My links:
 </br>
 
 
-💎 I have a verified PayPal account and anyone is welcome to hire me from around the world.
-
-💎 I am skilled in Python programming language,  machine learning (ML) algorithms and data related fields.
-
-💎 My Gmail address: melaneepython@gmail.com
+AI developer with more than 2 years of practical experience in Python programming language. Have worked in agile environments with 4 to 7 teammates. Developed more than 10 Artificial intelligence projects and tools for private employers. Analyzed about 50 commercial datasets to achieve business growth using python and machine learning models. 
 
 
 <!--💻 I'm Melanee.
