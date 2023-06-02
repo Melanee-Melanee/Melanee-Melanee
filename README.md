@@ -91,7 +91,7 @@ My links:
 </br>
 </br>
 
-
+## About me:
 AI developer with more than 2 years of practical experience in Python programming language. Have worked in agile environments with 4 to 7 teammates. Developed more than 10 Artificial intelligence projects and tools for private employers. Analyzed about 50 commercial datasets to achieve business growth using python and machine learning models. 
 
 
