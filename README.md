@@ -82,7 +82,7 @@ My links:
 
 
 
-<img src="https://github.com/Melanee-Melanee/Melanee-Melanee/blob/main/data%20analysis.png" align="right" alt="rezvan-net" width="400" height="400">
+<img src="https://github.com/Melanee-Melanee/Melanee-Melanee/blob/main/data%20analysis.png" align="right" alt="melanee-net" width="400" height="400">
 
 
 
@@ -99,7 +99,7 @@ About me:
 </br>
 
 
-AI developer with more than 2 years of practical experience in Python programming language. Have worked in agile environments with 4 to 7 teammates. Developed more than 10 Artificial intelligence projects and tools for private employers. Analyzed about 50 commercial datasets to achieve business growth using python and machine learning models. 
+AI developer with more than 2 years of practical experience in Python programming language. Have worked in agile environments with 4 to 7 teammates. Developed more than 10 Artificial intelligence projects and tools for private employers. Analyzed about 20 commercial datasets to achieve business growth using python and machine learning models. 
 
 
 
