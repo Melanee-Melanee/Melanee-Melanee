@@ -20,16 +20,7 @@ My links:
    
    
    
-   
-   <a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
-   <img src="https://img.shields.io/badge/Google Scholar-808080?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>  
-   
-   
-   
-   <a href="https://www.researchgate.net/profile/Shaghayegh-Rahmani-2">
-   <img src="https://img.shields.io/badge/REASEARCHGATE-1DA2F3?style=for-the-badge&logo=researchgate&logoColor=white" />
-</a>    
+  
    
 </br>   
    
@@ -73,9 +64,7 @@ My links:
    
    
 
-  <a href="https://www.freelancer.com/u/Melanee2023">
-   <img src="https://img.shields.io/badge/Freelancere-1DA1F2?style=for-the-badge&logo=freelancer&logoColor=white" />
-</a>
+
  
  
 </div>
@@ -114,7 +103,7 @@ Data scientist with 3 years of practical experience in Python programming langua
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!--
-**rezvan-net/rezvan-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Melanee Melanee is ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
