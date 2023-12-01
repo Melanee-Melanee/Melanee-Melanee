@@ -78,13 +78,16 @@ My links:
 
 
 <b>
-About me:
+AI Usage Disclosure:
 </b>  
 
 </br>
 
+I am Melaneee and as an AI developer committed to ethical practices, I hereby disclose that all codes, activities, and models developed by me are intended solely for positive and beneficial applications for humanity. I strictly prohibit the use of my work for any detrimental, harmful, or unethical purposes. 
 
-Data scientist with 3 years of practical experience in Python programming language. Have worked in agile environments with 4 to 7 teammates. Developed more than 10 Artificial intelligence projects and tools for private employers. Analyzed about 20 commercial datasets to achieve business growth using python and machine learning models. 
+
+
+<!--Data scientist with 3 years of practical experience in Python programming language. Have worked in agile environments with 4 to 7 teammates. Developed more than 10 Artificial intelligence projects and tools for private employers. Analyzed about 20 commercial datasets to achieve business growth using python and machine learning models. 
 
 
 
