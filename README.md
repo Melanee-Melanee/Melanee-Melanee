@@ -83,7 +83,7 @@ AI Usage Disclosure:
 
 </br>
 
-I am Melaneee and as a data scientist committed to ethical practices, I hereby disclose that all codes, repositories, and models developed by me are intended solely for positive and beneficial applications for humanity. I strictly prohibit the use of my work for any detrimental, harmful, or unethical purposes. 
+I am Melanee and as a data scientist committed to ethical practices, I hereby disclose that all codes, repositories, and models developed by me are intended solely for positive and beneficial applications for humanity. I strictly prohibit the use of my work for any detrimental, harmful, or unethical purposes. 
 
 
 
