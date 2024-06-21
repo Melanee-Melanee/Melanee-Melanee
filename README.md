@@ -18,58 +18,33 @@ My links:
 </a> 
      
    
-
-   
-   
-   
 <a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>    
     
 
  
-   
  <a href="https://t.me/melaneepython">
     <img src="https://img.shields.io/badge/Telegram-1DA2F3?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>   
      
-   
-   
    
 <a href="http://melanee-melanee.medium.com">
     <img src="https://img.shields.io/badge/Medium-E0E0E0?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
 
-
-   
-
 <a href="https://stackoverflow.com/users/14627974/melanee?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
- </br> 
-   
-   
-   
     
  <a href="https://twitter.com/Melanee_Melanee">
    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
    
-   
-   
-
-
- 
  
 </div>
-
-
-
-<img src="https://github.com/Melanee-Melanee/Melanee-Melanee/blob/main/data%20analysis.png" align="right" alt="melanee-net" width="400" height="400">
-
-
 
 
 </br>
@@ -103,6 +78,8 @@ I am Melanee and as an AI developer committed to ethical practices, I hereby dis
 
 <!--
 ** Melanee Melanee is ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Melanee-Melanee/Melanee-Melanee/blob/main/data%20analysis.png" align="right" alt="melanee-net" width="400" height="400">
+
 
 
 
