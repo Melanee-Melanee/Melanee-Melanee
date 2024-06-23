@@ -22,11 +22,6 @@ My links:
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>    
     
-
- 
- <a href="https://t.me/melaneepython">
-    <img src="https://img.shields.io/badge/Telegram-1DA2F3?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>   
      
    
 <a href="http://melanee-melanee.medium.com">
