@@ -18,12 +18,6 @@ My links:
 </a> 
      
    
-<a href="https://www.youtube.com/channel/UC9JV4rRUNXCBgGpNdwK7-Ww">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>    
-    
-     
-   
 <a href="http://melanee-melanee.medium.com">
     <img src="https://img.shields.io/badge/Medium-E0E0E0?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
