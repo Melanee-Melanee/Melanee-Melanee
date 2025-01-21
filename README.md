@@ -11,9 +11,14 @@ My links:
    <img src="https://img.shields.io/badge/Google Play-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
 </a> -->
    
+<a href="https://github.com/Melanee-Melanee/My-Computer-Certificates">
+   <img src="https://img.shields.io/badge/My Certficates-DFFF00?style=for-the-badge&logo=My Certficates&logoColor=white" />
+</a> 
+
+
    
    
-   <a href="https://www.kaggle.com/melaneemelanee">
+<a href="https://www.kaggle.com/melaneemelanee">
    <img src="https://img.shields.io/badge/Kaggle-1DA2F3?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </a> 
      
@@ -26,6 +31,11 @@ My links:
 <a href="https://stackoverflow.com/users/14627974/melanee?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+
+
+
+
+
    
  
 </div>
