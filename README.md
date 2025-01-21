@@ -12,7 +12,7 @@ My links:
 </a> -->
    
 <a href="https://github.com/Melanee-Melanee/My-Computer-Certificates">
-   <img src="https://img.shields.io/badge/My Certficates-DFFF00?style=for-the-badge&logo=My Certficates&logoColor=white" />
+   <img src="https://img.shields.io/badge/My Certificates-DFFF00?style=for-the-badge&logo=My Certificates&logoColor=white" />
 </a> 
 
 
