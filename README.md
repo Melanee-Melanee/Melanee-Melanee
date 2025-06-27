@@ -7,16 +7,12 @@ My links:
    
 </br>
          
-<!--<a href="https://play.google.com/store/apps/details?id=shaghayegh.resin_calculator">
-   <img src="https://img.shields.io/badge/Google Play-00FF00?style=for-the-badge&logo=googleplay&logoColor=white" />
-</a> -->
+
    
 <a href="https://github.com/Melanee-Melanee/My-Computer-Certificates">
-   <img src="https://img.shields.io/badge/My Certificates-DFFF00?style=for-the-badge&logo=My Certificates&logoColor=white" />
+   <img src="https://img.shields.io/badge/My Certificates-DFFF00?style=for-the-badge&logo=MyCertificates&logoColor=white" />
 </a> 
-
-
-   
+  
    
 <a href="https://www.kaggle.com/melaneemelanee">
    <img src="https://img.shields.io/badge/Kaggle-1DA2F3?style=for-the-badge&logo=Kaggle&logoColor=white" />
