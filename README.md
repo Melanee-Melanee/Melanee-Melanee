@@ -42,7 +42,6 @@ My links:
 </br>
 
 
-AI Programmer
 
 
 <b>
