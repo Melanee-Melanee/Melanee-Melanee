@@ -28,6 +28,9 @@ My links:
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
+<a href="https://scholar.google.com/citations?user=Mp6clUgAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google Scholar-03a1fc?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</a>
 
 
 
