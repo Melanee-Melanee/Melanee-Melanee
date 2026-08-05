@@ -33,7 +33,9 @@ My links:
 </a>
 
 
-
+<a href="https://www.researchgate.net/profile/Shaghayegh-Rahmani-2">
+    <img src="https://img.shields.io/badge/ReasearchGate-42f5d4?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
 
    
  
